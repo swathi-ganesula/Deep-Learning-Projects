@@ -1,7 +1,10 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-keras
-nltk
+## Tools & Libraries
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Matplotlib
+
+## Author
+Swathi Ganesula
