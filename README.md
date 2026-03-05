@@ -1,2 +1,3 @@
 # Deep-Learning-Projects
-Collection of Deep Learning experiments, notebooks, and implementations using Python.
+This repository contains my Deep Learning  projects implemented using Python.
+
