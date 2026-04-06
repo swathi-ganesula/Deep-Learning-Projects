@@ -19,7 +19,7 @@ This project builds a **Recurrent Neural Network (RNN)** to classify tweets into
 
 ---
 
-## Technologies Used
+## Libraries Used
 
 * Python
 * TensorFlow / Keras
