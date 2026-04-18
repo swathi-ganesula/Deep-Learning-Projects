@@ -7,7 +7,7 @@ This project implements an Artificial Neural Network using TensorFlow/Keras Sequ
 - TensorFlow
 - Keras
 - NumPy
-- Matplotlib.
+- Matplotlib
 
 ## Dataset
 MNIST handwritten digits dataset.
